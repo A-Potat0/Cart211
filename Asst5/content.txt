@@ -26,4 +26,3 @@ main=
 Credits, not on the site******************************************************************
 Text and images comes from: https://humansofnyarchive.com
 
-
